@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/sotransiv_despliegue/static/css/main.c7321cae.chunk.css",
+    "main.js": "/sotransiv_despliegue/static/js/main.a9db91d5.chunk.js",
+    "main.js.map": "/sotransiv_despliegue/static/js/main.a9db91d5.chunk.js.map",
+    "runtime-main.js": "/sotransiv_despliegue/static/js/runtime-main.4296290c.js",
+    "runtime-main.js.map": "/sotransiv_despliegue/static/js/runtime-main.4296290c.js.map",
+    "static/css/2.b8a3b08a.chunk.css": "/sotransiv_despliegue/static/css/2.b8a3b08a.chunk.css",
+    "static/js/2.6eda6328.chunk.js": "/sotransiv_despliegue/static/js/2.6eda6328.chunk.js",
+    "static/js/2.6eda6328.chunk.js.map": "/sotransiv_despliegue/static/js/2.6eda6328.chunk.js.map",
+    "index.html": "/sotransiv_despliegue/index.html",
+    "precache-manifest.7fb6dd863904f14c30499975369868df.js": "/sotransiv_despliegue/precache-manifest.7fb6dd863904f14c30499975369868df.js",
+    "service-worker.js": "/sotransiv_despliegue/service-worker.js",
+    "static/css/2.b8a3b08a.chunk.css.map": "/sotransiv_despliegue/static/css/2.b8a3b08a.chunk.css.map",
+    "static/css/main.c7321cae.chunk.css.map": "/sotransiv_despliegue/static/css/main.c7321cae.chunk.css.map",
+    "static/js/2.6eda6328.chunk.js.LICENSE.txt": "/sotransiv_despliegue/static/js/2.6eda6328.chunk.js.LICENSE.txt",
+    "static/media/LogoWhite.png": "/sotransiv_despliegue/static/media/LogoWhite.cc681753.png",
+    "static/media/Logo_color.png": "/sotransiv_despliegue/static/media/Logo_color.20537f47.png",
+    "static/media/Login.css": "/sotransiv_despliegue/static/media/fondo.7b2695a9.jpg",
+    "static/media/icono.png": "/sotransiv_despliegue/static/media/icono.a23ad246.png",
+    "static/media/user.jpg": "/sotransiv_despliegue/static/media/user.daebef92.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4296290c.js",
+    "static/css/2.b8a3b08a.chunk.css",
+    "static/js/2.6eda6328.chunk.js",
+    "static/css/main.c7321cae.chunk.css",
+    "static/js/main.a9db91d5.chunk.js"
+  ]
+}
